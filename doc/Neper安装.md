@@ -54,4 +54,4 @@ sudo make install
 make test
 ```
 
-此时neper环境配置成功，使用方法可以查看文档https://neper.info/docs/neper.pdf。
+此时neper环境配置成功，使用方法可以查看文档https://neper.info/docs/neper.pdf
